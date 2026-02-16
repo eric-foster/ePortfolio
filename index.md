@@ -52,7 +52,7 @@ Overall, this enhancement deepened my appreciation for structured design, testin
 
 <center>
   <a href="https://github.com/eric-foster/ePortfolio/tree/main/Enhancement%20One/Embedded-Systems-Portfolio" title="Click me to view the artifact report">
-    <img src="./Images/EnhancementOne.png" height=400>
+    <img src="./Images/EnhancementOne.png" height=600>
   </a>
 </center>
   
