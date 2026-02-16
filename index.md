@@ -30,7 +30,7 @@ Collectively, the artifacts in this portfolio demonstrate my ability to design a
 
 A code review is a systematic quality assurance practice in which a project’s source code and resulting behavior are carefully examined to verify correctness, readability, and adherence to established standards. This process is essential to the success of computer science professionals because it promotes consistency across a codebase, identifies defects early, and reinforces high-quality coding practices throughout the software development lifecycle.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=w5S3wnJQVzc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w5S3wnJQVzc?si=Joq6WBY-uSCwFUPF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <code>You can also watch the code review <a href="https://www.youtube.com/watch?v=w5S3wnJQVzc">here</a>.</code>
 
