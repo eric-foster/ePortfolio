@@ -1,0 +1,4 @@
+﻿  ProjectTwo.cpp
+U:\ProjectTwo\ProjectTwo\ProjectTwo.cpp(324,35): warning C4018: '<': signed/unsigned mismatch
+U:\ProjectTwo\ProjectTwo\ProjectTwo.cpp(344,35): warning C4101: 'e': unreferenced local variable
+  ProjectTwo.vcxproj -> U:\ProjectTwo\Debug\ProjectTwo.exe
