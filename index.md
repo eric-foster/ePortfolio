@@ -1,5 +1,5 @@
 <center>
-  <img src="./Images/profile.jpg" height=200 width=200>
+  <img src="./Images/profile.jpeg" height=200 width=200>
 </center>
   
 # Computer Science Capstone
@@ -52,7 +52,7 @@ Overall, this enhancement deepened my appreciation for structured design, testin
 
 <center>
   <a href="https://github.com/eric-foster/ePortfolio/tree/main/Enhancement%20One/Embedded-Systems-Portfolio" title="Click me to view the artifact report">
-    <img src="" height=250>
+    <img src="./Images/EnhancementOne.png" height=250>
   </a>
 </center>
   
@@ -68,7 +68,7 @@ This enhancement demonstrates growth in my understanding of algorithmic tradeoff
 
 <center>
   <a href="https://github.com/eric-foster/ePortfolio/tree/main/Enhancement%20Two/Course_Plan_CLI_Enhanced" title="Click me to view the artifact report">
-    <img src="" height=400>
+    <img src="./Images/EnhancementTwo.png" height=400>
   </a>
 </center>
   
@@ -109,7 +109,8 @@ One challenge was correctly integrating pagination and aggregation while preserv
 Overall, this enhancement strengthened my confidence in building database-centric applications that follow industry best practices. It reinforced the importance of secure configuration, thoughtful indexing, and modular design when working with real datasets and user-facing dashboards. Additionally, I gained a deeper appreciation for the trade-offs involved in database indexing. While indexes significantly improve query performance by reducing search time, they also introduce storage overhead and increase the cost of write operations such as inserts, updates, and deletes. To balance these trade-offs, I focused on creating compound indexes only on fields that align with the application’s most common query patterns, rather than indexing every field indiscriminately. This approach ensures faster reads where they matter most while minimizing unnecessary index maintenance, resulting in a more efficient and scalable system.
 <center>
   <a href="https://github.com/eric-foster/ePortfolio/tree/main/Enhancement%20Three/Animal_Shelter_Dashboard%20-%20Enhanced%20Version">
-    <img src="" height=400>
+    <img src="./Images/EnhancementThree_1.png" height=400>
+    <img src="./Images/EnhancementThree_2.png" height=400>
   </a>
 </center>
 
