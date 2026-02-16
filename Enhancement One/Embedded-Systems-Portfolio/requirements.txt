@@ -1,0 +1,5 @@
+python-statemachine
+gpiozero
+pyserial
+adafruit-circuitpython-ahtx0
+adafruit-circuitpython-charlcd
