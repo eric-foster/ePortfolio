@@ -1,3 +1,41 @@
+<a id="top"></a>
+
+<style>
+html {
+  scroll-behavior: smooth;
+}
+
+#topBtn {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  background-color: #24292f;
+  color: white;
+  padding: 10px 14px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 14px;
+  z-index: 999;
+}
+
+#topBtn:hover {
+  background-color: #0366d6;
+}
+</style>
+
+<a id="topBtn" href="#top">⬆ Top</a>
+
+<script>
+  window.addEventListener("scroll", function () {
+    const btn = document.getElementById("topBtn");
+    if (window.scrollY > 300) {
+      btn.style.display = "block";
+    } else {
+      btn.style.display = "none";
+    }
+  });
+</script>
+
 <center>
   <img src="./Images/profile.jpeg" height=300>
 </center>
@@ -5,6 +43,14 @@
 # Computer Science Capstone
   
 ## <center>CS-499 | SNHU</center>
+
+### Table of Contents
+
+- [Professional Self-Assessment](#professional-self-assessment)
+- [Code Review](#code-review)
+- [Project 1: Software Engineering and Design](#project-1-software-engineering-and-design)
+- [Project 2: Algorithms and Data Structures](#project-2-algorithms-and-data-structures)
+- [Project 3: Databases](#project-3-databases)
 
 ### Professional Self-Assessment
 
