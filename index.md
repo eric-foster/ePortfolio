@@ -1,5 +1,5 @@
 <center>
-  <img src="./Images/profile.jpeg" height=200 width=200>
+  <img src="./Images/profile.jpeg" height=300>
 </center>
   
 # Computer Science Capstone
