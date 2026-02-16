@@ -68,7 +68,7 @@ This enhancement demonstrates growth in my understanding of algorithmic tradeoff
 
 <center>
   <a href="https://github.com/eric-foster/ePortfolio/tree/main/Enhancement%20Two/Course_Plan_CLI_Enhanced" title="Click me to view the artifact report">
-    <img src="./Images/EnhancementTwo.png" height=400>
+    <img src="./Images/EnhancementTwo.png" height=600>
   </a>
 </center>
   
