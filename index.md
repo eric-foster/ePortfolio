@@ -6,7 +6,7 @@
   
 ## <center>CS-499 | SNHU</center>
 
-## Professional Self-Assessment
+### Professional Self-Assessment
 
 My experience in the Computer Science program at Southern New Hampshire University has played a critical role in shaping my professional goals, technical identity, and long-term career direction. Through progressive coursework and the development of a comprehensive ePortfolio, I have strengthened my ability to design, implement, analyze, and refine software systems using industry-aligned practices. This portfolio demonstrates my readiness to enter the computing systems domain, with a particular interest in backend systems, data-intensive applications, and performance-conscious software design. While no single portfolio can capture the full scope of my academic work, this collection highlights my strengths across three core areas: Software Design and Engineering, Algorithms and Data Structures, and Databases.
 
@@ -30,7 +30,9 @@ Collectively, the artifacts in this portfolio demonstrate my ability to design a
 
 A code review is a systematic quality assurance practice in which a project’s source code and resulting behavior are carefully examined to verify correctness, readability, and adherence to established standards. This process is essential to the success of computer science professionals because it promotes consistency across a codebase, identifies defects early, and reinforces high-quality coding practices throughout the software development lifecycle.
 
-<code>You can watch the code review <a href="https://www.youtube.com/watch?v=w5S3wnJQVzc">here</a>.</code>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=w5S3wnJQVzc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<code>You can also watch the code review <a href="https://www.youtube.com/watch?v=w5S3wnJQVzc">here</a>.</code>
 
 ### Project 1: Software Engineering and Design
 
@@ -49,12 +51,12 @@ A primary challenge during this enhancement was adapting embedded code that was 
 Overall, this enhancement deepened my appreciation for structured design, testing strategies, and abstraction in computing systems. The improved artifact now more accurately represents my current skill set and aligns closely with my academic and professional goals within computing systems and embedded software engineering.
 
 <center>
-  <a href="" title="Click me to view the artifact report">
+  <a href="https://github.com/eric-foster/ePortfolio/tree/main/Enhancement%20One/Embedded-Systems-Portfolio" title="Click me to view the artifact report">
     <img src="" height=250>
   </a>
 </center>
   
-<code>See the artifact's report and code <a href="">here</a>.</code>
+<code>See the artifact's report and code <a href="https://github.com/eric-foster/ePortfolio/tree/main/Enhancement%20One/Embedded-Systems-Portfolio">here</a>.</code>
 
 ### Project 2: Algorithms and Data Structures
 
@@ -65,12 +67,12 @@ A major focus of the enhancement was implementing a benchmarking system that mea
 This enhancement demonstrates growth in my understanding of algorithmic tradeoffs, abstraction, and performance engineering. I moved beyond simply implementing a data structure toward designing a system that evaluates and validates its behavior under load. The modular architecture, comparative benchmarking, and clean separation of responsibilities collectively illustrate stronger software engineering practices and a deeper mastery of data structures. This artifact now represents not only functional correctness, but also thoughtful design, scalability, and analytical reasoning, all of which are skills that are essential for backend and systems-oriented software engineering roles.
 
 <center>
-  <a href="" title="Click me to view the artifact report">
+  <a href="https://github.com/eric-foster/ePortfolio/tree/main/Enhancement%20Two/Course_Plan_CLI_Enhanced" title="Click me to view the artifact report">
     <img src="" height=400>
   </a>
 </center>
   
-<code>See the artifact's report and code <a href="">here</a>.</code>
+<code>See the artifact's report and code <a href="https://github.com/eric-foster/ePortfolio/tree/main/Enhancement%20Two/Course_Plan_CLI_Enhanced">here</a>.</code>
 
 ### Project 3: Databases
 
@@ -106,9 +108,9 @@ One challenge was correctly integrating pagination and aggregation while preserv
 
 Overall, this enhancement strengthened my confidence in building database-centric applications that follow industry best practices. It reinforced the importance of secure configuration, thoughtful indexing, and modular design when working with real datasets and user-facing dashboards. Additionally, I gained a deeper appreciation for the trade-offs involved in database indexing. While indexes significantly improve query performance by reducing search time, they also introduce storage overhead and increase the cost of write operations such as inserts, updates, and deletes. To balance these trade-offs, I focused on creating compound indexes only on fields that align with the application’s most common query patterns, rather than indexing every field indiscriminately. This approach ensures faster reads where they matter most while minimizing unnecessary index maintenance, resulting in a more efficient and scalable system.
 <center>
-  <a href="">
+  <a href="https://github.com/eric-foster/ePortfolio/tree/main/Enhancement%20Three/Animal_Shelter_Dashboard%20-%20Enhanced%20Version">
     <img src="" height=400>
   </a>
 </center>
 
-  <code>See the artifact's report and code <b><a href="" title="Click me to view the artifact report">here</a></b>.</code>
+  <code>See the artifact's report and code <b><a href="https://github.com/eric-foster/ePortfolio/tree/main/Enhancement%20Three/Animal_Shelter_Dashboard%20-%20Enhanced%20Version" title="Click me to view the artifact report">here</a></b>.</code>
