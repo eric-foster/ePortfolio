@@ -42,7 +42,7 @@ html {
   
 # Computer Science Capstone
   
-## <center>CS-499 | SNHU</center>
+## <center>ePortfolio | SNHU</center>
 
 ### Table of Contents
 
